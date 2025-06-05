@@ -1,5 +1,5 @@
-name = "sakkitsite.xn--q9jyb4c"
+name = "sakkitsiteq9jyb4c"
 compatibility_date = "2025-06-05"
-
+main = "./_empty_worker.js"
 [site]
-bucket = "./sakkitsite.xn--q9jyb4c"
+bucket = "./sakkitsiteq9jyb4c"
