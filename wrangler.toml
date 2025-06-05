@@ -1,0 +1,5 @@
+name = "sakkitsite"
+compatibility_date = "2025-06-05"
+
+[assets]
+directory = "./sakkitsite.xn--q9jyb4c"
